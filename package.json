@@ -4,7 +4,14 @@
   "description": "Remove Emojis from your code ",
   "icon": "icon.png",
   "version": "0.0.1",
+  "license": "MIT",
   "publisher": "cybertron",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olaadewal/remove-emojis.git"
+  },
+
   "engines": {
     "vscode": "^1.109.0"
   },
