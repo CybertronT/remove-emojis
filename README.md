@@ -16,5 +16,3 @@ Remove emojis from your code to make it cleaner. Works on any file type (HTML, J
 - Simple, one-command workflow.
 
 
-### 0.0.1
-Initial release of Remove Emojis.
